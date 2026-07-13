@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "zixuan.dev"
+title                    : "zixuan.chen"
 title_separator          : "-"
 name                     : &name "Zixuan Chen"
 description              : &description "personal description"
@@ -26,17 +26,17 @@ author:
   name             : "Zixuan Chen"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Pittsburgh, PA, US"
+  location         : "Pittsburgh, PA"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "snowfall99chen@gmail.com"
+  email            : "zixuanc3@andrew.cmu.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=ZURbofYAAAAJ
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0009-8128-4669"
+  orcid            : # "https://orcid.org/0009-0009-8128-4669"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/chenzx-isnowfall99/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -80,8 +80,8 @@ author:
 publication_category:
   # books:
   #   title: 'Books'
-  # manuscripts:
-  #   title: 'Journal Articles'
+  manuscripts:
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 

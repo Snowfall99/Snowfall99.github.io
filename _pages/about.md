@@ -1,26 +1,24 @@
 ---
 permalink: /
-title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Master student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Previously, I was a full-time Software Engineer at ByteDance, I mainly worked on building cloud infrastructure and AI infrastructure. I received my Bachelor's degree at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in 2022, where I was adviced by [Prof. Shengyun Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=184).
-
-My research interests include Machine Learning Systems, GPU Communication and Cloud Computing.
-
-- [Curriculum Vitae](http://snowfall99.github.io/files/cv.pdf)
-
-Education
+About
 ======
-* MSIN - Advanced Study, Carnegie Mellon University, 2025.08 - 2027.05 (expected)
-* B.Eng., Shanghai Jiao Tong University, 2018.09 - 2022.06
+I am a second-year Master student at Carnegie Mellon University (CMU). I work with Prof. Zhihao Jia and Prof. Rashmi Vinayak on large-scale distributed LLM serving. My research interests span large-scale systems for LLM serving, KV-cache scheduling and ML compilers.
 
-Work Experience
+I was a Senior Software Engineer at ByteDance, where I worked on building large-scale scheduling systems for AI infrastructure. I received my Bachelor's degree at Shanghai Jiao Tong University (SJTU) in 2022, where I worked with Prof. Shengyun Liu on distributed consensus protocols.
+
+Experience
 ======
-* Software Engineer, ByteDance, 2022.07 - 2025.04
+* MSIN - Advanced Study, Carnegie Mellon University (Pittsburgh, PA), 2025.08 - 2027.05 (expected)
+* Teaching Assistant, CMU 15-445/645 (Fall 2026), 2026.08 - 2026.12
+* Machine Learning Intern, VLM Run (Santa Clara, CA), 2026.05 - 2026.08
+* Senior Software Engineer, ByteDance (Beijing, China), 2022.07 - 2025.04
+* B.Eng., Shanghai Jiao Tong University (Shanghai, China), 2018.09 - 2022.06
 
 Publications
 ======

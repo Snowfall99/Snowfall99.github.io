@@ -10,7 +10,7 @@ redirect_from:
 
 <section id="bio">
   <p>
-    I am a second-year Master's student at <a href="https://www.ini.cmu.edu/">Carnegie Mellon University</a> (CMU).
+    I am a second-year Master's student at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> (CMU).
     I work with <a href="https://www.cs.cmu.edu/~zhihaoj2/">Prof. Zhihao Jia</a> and
     <a href="https://www.cs.cmu.edu/~rvinayak/">Prof. Rashmi Vinayak</a> on large-scale distributed LLM serving.
     My research interests include large-scale systems for LLM serving, KV-cache scheduling and ML compilers.
@@ -19,8 +19,8 @@ redirect_from:
   <p>
     Before coming to CMU, I was a Senior Software Engineer at <a href="https://www.bytedance.com/">ByteDance</a>, where
     I worked on building large-scale scheduling systems for AI infrastructure. I received my Bachelor's degree from the
-    School of Computer Science at <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> (SJTU) in 2022,
-    where I worked with Prof. Shengyun Liu on distributed consensus protocols.
+    School of Computer Science at <a href="https://www.cs.sjtu.edu.cn/en/">Shanghai Jiao Tong University</a> (SJTU) in 2022,
+    where I worked with <a href="https://shengyunliu.github.io/">Prof. Shengyun Liu</a> on distributed consensus protocols.
   </p>
 </section>
 

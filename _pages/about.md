@@ -63,7 +63,7 @@ redirect_from:
     </article>
 
     <article class="experience-item">
-      <p class="experience__heading"><strong>Shanghai Jiao Tong University</strong> — B.Eng., Computer Science</p>
+      <p class="experience__heading"><strong>Shanghai Jiao Tong University</strong> — B.Eng., School of Computer Science</p>
       <p class="experience__meta">Sep. 2018 – Jun. 2022 · Shanghai, China</p>
     </article>
   </div>

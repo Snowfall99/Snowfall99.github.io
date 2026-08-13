@@ -41,3 +41,120 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* ==========================================================================
+   CUSTOM
+   ========================================================================== */
+
+/* Drop the right-hand gutter. Opt in per page with `classes: wide`. */
+.page.wide {
+  @include breakpoint($large) {
+    padding-right: 0;
+  }
+}
+
+/* Section headings sit lighter than the default bordered h2. */
+.page__content section {
+  margin-bottom: 1.75em;
+
+  > h2 {
+    margin-bottom: 0.4em;
+    padding-bottom: 0;
+    border-bottom: 0;
+    font-size: $type-size-4;
+  }
+}
+
+/* --- Publications --- */
+
+.publication-list {
+  margin-top: 0;
+
+  > li {
+    margin-bottom: 1em;
+  }
+}
+
+.page__content .publication-list p {
+  margin: 0 0 0.15em;
+}
+
+.publication__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4em;
+  margin-top: 0.4em !important;
+}
+
+/* Venue chip and link buttons share one pill shape. */
+.publication__venue,
+.publication__links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  height: 1.75rem;
+  padding: 0 0.6em;
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  box-sizing: border-box;
+  font-size: 0.8em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.publication__venue {
+  justify-content: center;
+  min-width: 9.5em;
+  background-color: var(--global-code-background-color);
+  /* Paired with the background: in the dark theme that variable is near-white. */
+  color: var(--global-code-text-color);
+  font-weight: 600;
+}
+
+.publication__links a {
+  text-decoration: none;
+
+  &:hover {
+    border-color: var(--global-link-color-hover);
+    text-decoration: none;
+  }
+}
+
+.page__content .publication__note {
+  margin-top: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.85em;
+}
+
+/* --- Experience --- */
+
+.experience-item {
+  padding: 0.7em 0;
+  border-top: 1px solid var(--global-border-color);
+
+  &:first-of-type {
+    padding-top: 0;
+    border-top: 0;
+  }
+}
+
+.page__content .experience-item p {
+  margin: 0 0 0.15em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.page__content .experience__meta {
+  color: var(--global-text-color-light);
+  font-size: 0.85em;
+}
+
+/* --- Sidebar --- */
+
+.author__bio {
+  margin-top: 0.25em;
+  color: var(--global-text-color-light);
+}

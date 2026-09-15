@@ -10,10 +10,9 @@ redirect_from:
 
 <section id="bio">
   <p>
-    I am a second-year Master's student at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> (CMU).
-    I work with <a href="https://www.cs.cmu.edu/~zhihaoj2/">Prof. Zhihao Jia</a> and
-    <a href="https://www.cs.cmu.edu/~rvinayak/">Prof. Rashmi Vinayak</a> on large-scale distributed LLM serving.
-    My research interests include large-scale systems for LLM serving, KV-cache scheduling and ML compilers.
+    I am a second-year Master's student at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> (CMU). I work with <a href="https://users.ece.cmu.edu/~gamvrosi/">Prof. George Amvrosiadis</a> on KV cache scheduling. I also worked with <a href="https://www.cs.cmu.edu/~zhihaoj2/">Prof. Zhihao Jia</a> and
+    <a href="https://www.cs.cmu.edu/~rvinayak/">Prof. Rashmi Vinayak</a> on large-scale distributed LLM serving on heterogeneous GPUs.
+    My research interests span computer systems and distributed systems, with a particular interest in systems for ML workloads.
   </p>
 
   <p>
